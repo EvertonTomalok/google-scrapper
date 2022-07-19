@@ -1,0 +1,70 @@
+version: "3.2"
+
+services:
+    # Start local Postgres
+    postgresql-master:
+        image: 'bitnami/postgresql:latest'
+        ports:
+            - '5432:5432'
+        environment:
+            - POSTGRESQL_USERNAME=postgres
+            - POSTGRESQL_PASSWORD=postgres
+            - POSTGRESQL_DATABASE=postgres
+        volumes:
+            - './bitnami/postgresql'
+
+    # Start local MongoDB
+    mongo:
+        image: mongo:4.0.3-xenial
+        restart: always
+        ports:
+            - "27017:27017"
+        volumes:
+            - "./.mongodb:/data/db"
+        environment:
+            - MONGO_INITDB_ROOT_USERNAME=mongo
+            - MONGO_INITDB_ROOT_PASSWORD=mongo
+
+    # KAFKA
+    zookeeper:
+        image: wurstmeister/zookeeper
+        ports:
+        - "2181:2181"
+    kafka:
+        image: confluentinc/cp-kafka:5.5.0
+        hostname: kafka
+        container_name: kafka
+        depends_on:
+        - zookeeper
+        ports:
+        - "29092:29092"
+        - "9092:9092"
+        environment:
+          KAFKA_BROKER_ID: 1
+          KAFKA_ZOOKEEPER_CONNECT: "zookeeper:2181"
+          KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+          KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+          KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+          KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+          KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+          KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+    kafdrop:
+        image: obsidiandynamics/kafdrop:latest
+        depends_on:
+        - kafka
+        ports:
+        - "19000:9000"
+        environment:
+          KAFKA_BROKERCONNECT: "kafka:29092"
+    kafkaui:
+        platform: linux/x86_64
+        container_name: kafkaui
+        image: provectuslabs/kafka-ui:latest
+        depends_on:
+        - kafka
+        ports:
+        - "8080:8080"
+        environment:
+            KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: "kafka:9092"
+            KAFKA_CLUSTERS_0_NAME: "KAFKA LOCAL"
+            KAFKA_CLUSTERS_0_ZOOKEEPER: "zookeeper:2181"

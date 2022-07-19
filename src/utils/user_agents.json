@@ -1,0 +1,1452 @@
+[
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 59
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 55
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 68
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 69
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 61
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 56
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 61
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 67
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 69
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 55
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 55
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 55
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 69
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 65
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 65
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 61
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 69
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 69
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 69
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 67
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 64
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 64
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 59
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 65
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 65
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 55
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 59
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 65
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.9 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 59
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 56
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 59
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 61
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 67
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 67
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 55
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 65
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 56
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 68
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 69
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 64
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 56
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 64
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 63
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 56
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 65
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 61
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 62
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 56
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 67
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 68
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 55
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 59
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 58
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 59
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 68
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 65
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 55
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "very common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 56
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 70
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 66
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 68
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 68
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 61
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 60
+    },
+    {
+        "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36",
+        "operating_system": "windows",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 57
+    },
+    {
+        "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.44 Safari/537.36",
+        "operating_system": "linux",
+        "software_name": "chrome",
+        "software_engine": "Blink",
+        "software_type": "browser -> web-browser",
+        "hardware_type": "computer",
+        "popularity": "common",
+        "version": 55
+    }
+]
